@@ -48,7 +48,7 @@
 			</resource>
 		</resources>
 	</configuration>
-</plugin>
+            </plugin>
         </plugins>
     </build>
 
